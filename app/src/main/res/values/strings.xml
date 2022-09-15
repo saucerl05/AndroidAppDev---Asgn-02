@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Asgn 02 - Landmark Scrapbook</string>
+    <string name="landmark_scrapbook">Landmark Scrapbook</string>
+    <string name="portland_lighthouse">Portland Lighthouse</string>
+    <string name="washington_monument">Washington Monument</string>
+    <string name="todo">TODO</string>
+    <string name="mount_rushmore">Mount Rushmore</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+</resources>
